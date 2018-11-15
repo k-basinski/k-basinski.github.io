@@ -32,7 +32,7 @@ Zdun-Ryżewska, A., Basiński, K., Majkowicz, M., Podolska, M., Landowski, J., &
 # Dydaktyka / Teaching
 
 - Metodologia badań psychologicznych
-- Technologie informatyczne w pracy naukowej
+- [Technologie informatyczne w pracy naukowej](http://kbas.gumed.edu.pl/tipn)
 - Wprowadzenie do psychologii społecznej
 - Projekt badawczy
 - Psychologia muzyki
