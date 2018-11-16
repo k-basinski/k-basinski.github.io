@@ -31,7 +31,7 @@ Zdun-Ryżewska, A., Basiński, K., Majkowicz, M., Podolska, M., Landowski, J., &
 
 # Dydaktyka / Teaching
 
-- Metodologia badań psychologicznych
+- [Metodologia badań psychologicznych](http://kbas.gumed.edu.pl/mbp)
 - [Technologie informatyczne w pracy naukowej](http://kbas.gumed.edu.pl/tipn)
 - Wprowadzenie do psychologii społecznej
 - Projekt badawczy
