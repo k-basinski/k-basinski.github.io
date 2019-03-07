@@ -11,7 +11,7 @@ output:
 
 # O mnie
 
-Jestem asystentem w Zakładzie Badań nad Jakością Życia Gdańskiego Uniwersytetu Medycznego. W pracy naukowej zajmuję się słyszeniem (w szczególności muzyki) oraz bólem (oraz związkami pomiędzy jednym a drugim). Aktualnie realizuję projekt *Wpływ preferencji muzycznych na zjawisko muzycznej analgezji* finansowany przez Narodowe Centrum Nauki (można o nim poczytać [tutaj](http://naukawpolsce.pap.pl/aktualnosci/news,410003,kogo-ukoi-disco-polo.html) albo [tutaj](https://projekty.ncn.gov.pl/index.php?s=12579]) ). Kończę też pracę nad rozprawą doktorską pt. *Ocena psychologicznych wyznaczników powstawania bólu przewlekłego u chorych z niespecyficznym bólem okolicy lędźwiowo-krzyżowej*. 
+Jestem asystentem w Zakładzie Badań nad Jakością Życia Gdańskiego Uniwersytetu Medycznego. W pracy naukowej zajmuję się słyszeniem (w szczególności muzyki) oraz bólem (oraz związkami pomiędzy jednym a drugim). Aktualnie realizuję projekt *Wpływ preferencji muzycznych na zjawisko muzycznej analgezji* finansowany przez Narodowe Centrum Nauki (można o nim poczytać [tutaj](http://naukawpolsce.pap.pl/aktualnosci/news,410003,kogo-ukoi-disco-polo.html) albo [tutaj](https://projekty.ncn.gov.pl/index.php?s=12579]) ). Kończę też pracę nad rozprawą doktorską pt. *Ocena psychologicznych wyznaczników powstawania bólu przewlekłego u chorych z niespecyficznym bólem okolicy lędźwiowo-krzyżowej*.
 
 Mam żonę i dwójkę dzieci. Jeśli mam wolną chwilę, lubię grać na gitarze, zwłaszcza muzykę amerykańską minionego wieku.
 
@@ -33,9 +33,10 @@ Zdun-Ryżewska, A., Basiński, K., Majkowicz, M., Podolska, M., Landowski, J., &
 
 - [Metodologia badań psychologicznych](http://kbas.gumed.edu.pl/mbp)
 - [Technologie informatyczne w pracy naukowej](http://kbas.gumed.edu.pl/tipn)
-- Wprowadzenie do psychologii społecznej
+- [Psychologia muzyki i muzykoterapia](http://kbas.gumed.edu.pl/psych_muz)
+- [Music therapy and psychology of music](http://kbas.gumed.edu.pl/music_ther)
 - Projekt badawczy
-- Psychologia muzyki
+- Wprowadzenie do psychologii społecznej
 
 
 
@@ -52,4 +53,3 @@ ul. Tuwima 15, pok.312
 80-210 Gdańsk
 
 tel. +48 58 349 15 55 (sekretariat)
-
