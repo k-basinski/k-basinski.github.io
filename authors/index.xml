@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Krzysztof Basiński</title>
+    <link>http://kbas.gumed.edu.pl/authors/</link>
+      <atom:link href="http://kbas.gumed.edu.pl/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>http://kbas.gumed.edu.pl/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>http://kbas.gumed.edu.pl/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>http://kbas.gumed.edu.pl/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://kbas.gumed.edu.pl/authors/admin/</guid>
+      <description>&lt;p&gt;I am an assistant professor in the Department of Psychology, Medical University of Gdańsk, Poland. I do research on auditory cognition and the links between the auditory and emotional systems in humans.&lt;/p&gt;
+
+&lt;p&gt;I also did some work in pain psychology. My PhD thesis about predictors of chronic low back pain (in Polish) can be found &lt;a href=&#34;phd&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
