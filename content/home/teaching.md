@@ -12,6 +12,7 @@ weight = 25
 - [Technologie informatyczne w pracy naukowej](http://kbas.gumed.edu.pl/tipn)
 - [Projekt badawczy](http://kbas.gumed.edu.pl/pb_www)
 - [Psychologia emocji i motywacji](http://kbas.gumed.edu.pl/eim)
+- [Kognitywistyka słyszenia](http://kbas.gumed.edu.pl/ks)
 
 ## Inne 
 
