@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Krzysztof Basiński</title>
-    <link>http://example.org/</link>
+    <link>http://kbas.gumed.edu.pl/</link>
     <description>Recent content on Krzysztof Basiński</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://kbas.gumed.edu.pl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
-      <link>http://example.org/publications/</link>
+      <link>http://kbas.gumed.edu.pl/publications/</link>
       <pubDate>Sun, 31 Oct 2021 15:57:46 +0100</pubDate>
       
-      <guid>http://example.org/publications/</guid>
+      <guid>http://kbas.gumed.edu.pl/publications/</guid>
       <description>Main publications   Quiroga-Martinez, D. R., Basinski, K., Nasielski, J., Tillmann, B., Brattico, E., Cholvy, F., &amp;hellip; &amp;amp; Caclin, A. (2021). Enhanced mismatch negativity responses in harmonic compared to inharmonic sound sequences. bioRxiv preprint, under review [pdf]
   Basiński, K., Zdun-Ryżewska, A., Greenberg, D. M., &amp;amp; Majkowicz, M. (2021). Preferred musical attribute dimensions underlie individual differences in music-induced analgesia. Scientific Reports, 11(1), 1-8. [pdf]
   Basinski, K., Zdun-Ryzewska, A.</description>
@@ -19,10 +19,10 @@
     
     <item>
       <title>Curriculum Vitae</title>
-      <link>http://example.org/cv/</link>
+      <link>http://kbas.gumed.edu.pl/cv/</link>
       <pubDate>Sun, 31 Oct 2021 15:56:53 +0100</pubDate>
       
-      <guid>http://example.org/cv/</guid>
+      <guid>http://kbas.gumed.edu.pl/cv/</guid>
       <description>Current position Assistant Professor (2019-)
 Department Of Psychology
 Medical University of Gdańsk
@@ -37,10 +37,10 @@ Education   Masters Degree in Psychology, University of Gdańsk (2006-2011)
     
     <item>
       <title>About me</title>
-      <link>http://example.org/about/</link>
+      <link>http://kbas.gumed.edu.pl/about/</link>
       <pubDate>Sun, 31 Oct 2021 15:53:41 +0100</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>http://kbas.gumed.edu.pl/about/</guid>
       <description>I am an assistant professor in the Department of Psychology, Medical University of Gdańsk, Poland. I do research in auditory cognitive neuroscience. In my work I try to figure out how the brain makes people hear sounds.
 I also did some work in pain psychology. My PhD thesis on predictors of chronic low back pain (in Polish) can be found [here].
 Also,</description>
